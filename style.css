@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Telugu&family=Roboto&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* font-family: 'Roboto', sans-serif; */
+    font-family: 'Anek Telugu', sans-serif;
+}
+.custom-btn{
+    background: #ffff;
+    color: #DC3545;
+
+    /* color: ; */
+}
+.custom-btn:hover{
+    background: #BB2D3B;
+    color: white;
+}
+.custom{
+    background: #ffff;
+}
+
+ 
